@@ -8,13 +8,13 @@
                 transition: 0.3s;
                 /* Smooth transition for margin */
                 padding: 20px;
-                /* Optional: Add padding for better spacing */
+                
             }
 
             /* When sidebar is collapsed */
             .collapsed #main-content {
                 margin-left: 30px;
-                /* Match the collapsed sidebar width */
+                
             }
         }
     </style>
